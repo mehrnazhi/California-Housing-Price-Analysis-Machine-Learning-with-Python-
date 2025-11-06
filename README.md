@@ -49,7 +49,7 @@ How to Run
 
 Clone the repository:
 
-git clone https://github.com/mehrnazhi/California_Housing_Price_Analysis.git
+git@github.com:mehrnazhi/California-Housing-Price-Analysis-Machine-Learning-with-Python-.git
 
 
 Open the Jupyter Notebook and run the cells step by step.
