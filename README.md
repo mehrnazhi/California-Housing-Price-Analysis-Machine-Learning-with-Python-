@@ -48,8 +48,9 @@ matplotlib / seaborn (optional for visualization)
 How to Run
 
 Clone the repository:
+git clone https://github.com/mehrnazhi/ California-Housing-Price-Analysis-Machine-Learning-with-Python-.git
 
-git@github.com:mehrnazhi/California-Housing-Price-Analysis-Machine-Learning-with-Python-.git
+
 
 
 Open the Jupyter Notebook and run the cells step by step.
