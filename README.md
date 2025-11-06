@@ -48,7 +48,8 @@ matplotlib / seaborn (optional for visualization)
 How to Run
 
 Clone the repository:
-git clone https://github.com/mehrnazhi/ California-Housing-Price-Analysis-Machine-Learning-with-Python-.git
+
+git clone https://github.com/mehrnazhi/California-Housing-Price-Analysis-Machine-Learning-with-Python-.git
 
 
 
