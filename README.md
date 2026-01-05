@@ -2,15 +2,15 @@
 
 Machine Learning with Python
 
-Introduction
+# Introduction
 
 This project focuses on analyzing and predicting housing prices in California using machine learning techniques. By leveraging the California Housing dataset, the goal is to build a regression model that can estimate median house values based on various socio-economic and geographical features.
 
-Background
+# Background
 
 Housing price prediction is a classic regression problem in data science with real-world applications in economics, real estate, and policy-making. The California Housing dataset provides a rich set of features such as median income, house age, average rooms, population, and location-based information, making it ideal for exploring relationships between features and housing prices.
 
-Tools I Used
+# Tools I Used
 
 Python
 
@@ -64,7 +64,7 @@ Evaluated model performance using regression metrics
 
 Compared predicted values with actual values to assess accuracy
 
-What I Learned
+# What I Learned
 
 How to apply a complete machine learning workflow on a real dataset
 
@@ -74,6 +74,6 @@ How different features influence housing prices
 
 How to evaluate regression models using appropriate performance metrics
 
-Conclusions
+# Conclusions
 
 This project demonstrates how machine learning can be used to effectively analyze and predict housing prices. By combining data exploration, feature analysis, and regression modeling, meaningful insights can be extracted from real-world data. The approach used here can be extended to more advanced models and larger datasets for improved performance and practical applications.
